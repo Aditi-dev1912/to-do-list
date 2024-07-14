@@ -1,0 +1,3 @@
+- This Project is a todo list application built using HTML,CSS and Javascript.
+-  It allows users to add, delete, complete their task And view their todo items.
+-  The user interface is designed to be intuitive and responsive, providing a seamless experience across various devices.
